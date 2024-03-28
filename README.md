@@ -11,7 +11,7 @@ The Ring Laser Time Viewer is a Python script inspired by the work of Dr. Ron Ma
 ## Usage
 1. Clone or download the repository.
 2. Install the required dependencies: `pip install numpy matplotlib`
-3. Run the script: `python ring_laser_time_viewer.py`
+3. Run the script: `python TRL.py`
 
 ## Description
 The script consists of the following components:
