@@ -3,6 +3,8 @@
 ## Overview
 The Ring Laser Time Viewer is a Python script inspired by the work of Dr. Ron Mallat. It simulates a ring laser scanning experiment with gravitational time dilation effects. The script calculates adjusted pulse durations, generates points for visualization, simulates the experiment, and visualizes the results using matplotlib.
 
+![art](https://github.com/LoQiseaking69/TimeRing-/blob/main/IMG_8634.jpeg) 
+
 ## Requirements
 - Python 3.x
 - numpy
