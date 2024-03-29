@@ -16,7 +16,7 @@ The Ring Laser Time Viewer is a Python script inspired by the work of Dr. Ron Ma
 3. Run the script: `python TRL.py`
 
 ## Description
-The script consists of the following components:
+The script comprises the following components:
 
 - **RingLaserTimeViewer**: A class that simulates the ring laser experiment and visualizes the results.
   - `__init__()`: Initializes the parameters of the experiment.
@@ -55,4 +55,4 @@ time_viewer.visualize_point_cloud(point_cloud)
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 Affero - see the [LICENSE](LICENSE) file for details.
